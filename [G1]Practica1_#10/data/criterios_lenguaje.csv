@@ -1,0 +1,13 @@
+lenguaje,soporte,diferencias_entre_versiones,curva_aprendizaje,descripcion_tecnica
+Python,Alto,Bajo,Baja,"Popular en ciencia de datos, AI, desarrollo general"
+JavaScript,Alto,Media,Media,Lenguaje principal para desarrollo web
+Java,Alto,Alta,Media,"Orientado a objetos, multiplataforma"
+C#,Alto,Media,Alta,Muy usado en ecosistemas Microsoft
+C++,Media,Alta,Alta,"Lenguaje potente pero complejo, uso en sistemas embebidos"
+PHP,Media,Media,Baja,Popular en desarrollo web tradicional
+Ruby,Bajo,Media,Baja,"Fácil de usar, pero menos usado actualmente"
+Swift,Medio,Media,Media,Lenguaje moderno para Apple
+Go,Medio,Baja,Media,"Lenguaje de Google, rendimiento y concurrencia"
+Kotlin,Medio,Baja,Media,Recomendado por Google para Android
+Rust,Bajo,Alta,Alta,"Lenguaje seguro y rápido, curva pronunciada"
+TypeScript,Alto,Media,Media,"JavaScript tipado, usado en frontend moderno"

@@ -11,3 +11,15 @@ Go,Medio,Baja,Media,"Lenguaje de Google, rendimiento y concurrencia"
 Kotlin,Medio,Baja,Media,Recomendado por Google para Android
 Rust,Bajo,Alta,Alta,"Lenguaje seguro y rápido, curva pronunciada"
 TypeScript,Alto,Media,Media,"JavaScript tipado, usado en frontend moderno"
+Perl,Bajo,Alta,Alta,"Lenguaje veterano, con baja adopción moderna"
+Scala,Medio,Alta,Alta,"Funcional y orientado a objetos, sobre la JVM"
+Dart,Medio,Media,Media,"Lenguaje de Google, base de Flutter"
+Elixir,Bajo,Baja,Media,"Lenguaje funcional, concurrente, sobre Erlang"
+Objective-C,Bajo,Alta,Alta,Usado históricamente en iOS/macOS
+Lua,Medio,Media,Media,"Lenguaje embebido, usado en videojuegos"
+Haskell,Bajo,Alta,Alta,"Lenguaje puramente funcional, complejo"
+Matlab,Medio,Media,Media,Popular en ingeniería y matemáticas
+R,Medio,Media,Media,Lenguaje estadístico con enfoque en análisis de datos
+Visual Basic,Bajo,Media,Baja,"Lenguaje antiguo de Microsoft, fácil pero obsoleto"
+Shell,Alto,Baja,Media,"Scripts de sistema, útil en DevOps"
+Groovy,Bajo,Media,Media,Lenguaje para scripting en entornos Java
